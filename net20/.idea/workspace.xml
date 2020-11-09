@@ -26,7 +26,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa1ad9dc-7c8b-4912-8f92-934637f905a7" name="Default Changelist" comment="add new folders." />
+    <list default="true" id="aa1ad9dc-7c8b-4912-8f92-934637f905a7" name="Default Changelist" comment="add new folders.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604947867673</updated>
       <workItem from="1604947868924" duration="609000" />
+      <workItem from="1604948770240" duration="262000" />
     </task>
     <task id="LOCAL-00001" summary="add new folders.">
       <created>1604948359588</created>
@@ -113,6 +116,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add new folders." />
@@ -123,5 +127,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="93" y="93" width="1733" height="863" key="DiffContextDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1604948513496" />
+    <state x="1033" y="259" key="Vcs.Push.Dialog.v2" timestamp="1604948782860">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1033" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1604948782860" />
   </component>
 </project>
