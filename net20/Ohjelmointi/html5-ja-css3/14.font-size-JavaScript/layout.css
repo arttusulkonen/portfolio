@@ -1,0 +1,17 @@
+html {
+    width: 960px;
+    font-family: 'Josefin Sans', sans-serif;
+    
+}
+#section{
+    width: 50%;
+    font-size: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 15px;
+    background-color: #EAECF0;
+}
+
+h1, h2{
+    font-weight: bold;
+}

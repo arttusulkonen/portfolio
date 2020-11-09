@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="layout.css">
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,400;1,300&display=swap"
+        rel="stylesheet">
+
+    
+    <title>JavaScript font change</title>
+</head>
+
+<body>
+    <div id="section">
+        <h1 id="header">Muuta fonttinkokoa JavaScriptillä</h1>
+        <p>HUOM! Tee kaikki muutokset JavaScriptin avulla. Tässä esimerkissä on käytetty fonttia "Josefin Sans".</p>
+        <p>Listan fonttikokoa muutetaan alla olevaa painonappiapainamalla. Määrittele ensin bodyn fonttikoko 10px. Muuta
+            sen jälkeen fontin kokoa käyttäen suhteellista yksikköä em em. Listan oletusfonttikoko on 16px.</p>
+        <h2 id="headerBottom">Tämän listan fonttikoko pitää muuttua nappia painamalla</h2>
+
+        <p>1. Ensimmäinen napin painallus muuttaa fonttikoon 20px</p>
+        <p>2. Seuraava napin painallus muuttaa fonttikoon 24px</p>
+        <p>3. Seuraava napin painallus muuttaa fonttikoon 28px</p>
+        <p>4. Seuraava napin painallus muuttaa fonttikoon 32px</p>
+        <p>5. Seuraava napin painallus palauttaa fonttikoon 20px </p>
+        <button type="button" onclick="change_font_size(click)">Fontin koko</button>
+        <script src="script.js"></script>
+    </div>
+</body>
+
+</html>

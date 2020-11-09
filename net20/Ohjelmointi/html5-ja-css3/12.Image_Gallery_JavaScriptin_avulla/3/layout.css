@@ -1,0 +1,38 @@
+
+body {
+    width: 50%;
+}
+h1 {
+    letter-spacing: 20px;
+    color: #CCCCCC;
+    padding: 10px;
+    font-size: 46px;
+    text-transform: lowercase;
+}
+ul {
+    display: flex;
+    justify-content: space-around;
+    background-color: #CCCCCC;
+    padding: 10px 200px 10px 10px;
+    margin: -7px 0px 5px -30px;
+}
+a {
+    color: black;
+    text-decoration: none;
+}
+#placeholder {
+    border: 10px solid white;
+    
+}
+#description {
+    padding: 10px 100px 10px 0px;
+    
+}
+.example {
+    width: 60%;
+    padding: 10px 70px 10px 10px;
+    background-color: #CCCCCC;  
+}
+
+
+
