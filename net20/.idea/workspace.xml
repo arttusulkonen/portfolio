@@ -47,6 +47,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -64,6 +65,7 @@
       <updated>1604947867673</updated>
       <workItem from="1604947868924" duration="609000" />
       <workItem from="1604948770240" duration="262000" />
+      <workItem from="1605168504743" duration="148000" />
     </task>
     <task id="LOCAL-00001" summary="add new folders.">
       <created>1604948359588</created>
@@ -127,6 +129,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="93" y="93" width="1733" height="863" key="DiffContextDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1604948513496" />
+    <state x="66" y="142" key="SettingsEditor" timestamp="1605168645462">
+      <screen x="0" y="25" width="1920" height="993" />
+    </state>
+    <state x="66" y="142" key="SettingsEditor/0.25.1920.993@0.25.1920.993" timestamp="1605168645462" />
     <state x="1033" y="259" key="Vcs.Push.Dialog.v2" timestamp="1604948782860">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
