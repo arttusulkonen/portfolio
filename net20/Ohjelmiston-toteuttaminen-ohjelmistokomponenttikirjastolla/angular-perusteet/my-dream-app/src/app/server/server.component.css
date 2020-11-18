@@ -1,6 +1,6 @@
-section{
-    background-color: blue;
-    padding: 1rem;
-    margin: 1rem;
-    color: bisque;
+.app-server{
+  background-color: blue;
+}
+.app-server * {
+  color: bisque;
 }
