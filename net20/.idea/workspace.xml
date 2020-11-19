@@ -27,7 +27,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa1ad9dc-7c8b-4912-8f92-934637f905a7" name="Default Changelist" comment="add new folders.">
+      <change afterPath="$PROJECT_DIR$/Ohjelmiston-toteuttaminen-ohjelmistokomponenttikirjastolla/angular-perusteet/img/BC-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmiston-toteuttaminen-ohjelmistokomponenttikirjastolla/angular-perusteet/img/sampyla/img/grunge.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmiston-toteuttaminen-ohjelmistokomponenttikirjastolla/angular-perusteet/img/sampyla/img/logo-mark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmiston-toteuttaminen-ohjelmistokomponenttikirjastolla/angular-perusteet/img/sampyla/img/pretzels.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmiston-toteuttaminen-ohjelmistokomponenttikirjastolla/angular-perusteet/img/sampyla/img/sb-black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmiston-toteuttaminen-ohjelmistokomponenttikirjastolla/angular-perusteet/img/sampyla/img/special-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmiston-toteuttaminen-ohjelmistokomponenttikirjastolla/angular-perusteet/img/sampyla/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmiston-toteuttaminen-ohjelmistokomponenttikirjastolla/angular-perusteet/img/sampyla/indexx.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmiston-toteuttaminen-ohjelmistokomponenttikirjastolla/angular-perusteet/img/sampyla/layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmiston-toteuttaminen-ohjelmistokomponenttikirjastolla/angular-perusteet/img/sampyla/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmiston-toteuttaminen-ohjelmistokomponenttikirjastolla/angular-perusteet/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmiston-toteuttaminen-ohjelmistokomponenttikirjastolla/angular-perusteet/layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ohjelmiston-toteuttaminen-ohjelmistokomponenttikirjastolla/angular-perusteet/reset.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ohjelmiston-toteuttaminen-ohjelmistokomponenttikirjastolla/angular-perusteet/warning-ja-success/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmiston-toteuttaminen-ohjelmistokomponenttikirjastolla/angular-perusteet/warning-ja-success/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ohjelmiston-toteuttaminen-ohjelmistokomponenttikirjastolla/angular-perusteet/warning-ja-success/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmiston-toteuttaminen-ohjelmistokomponenttikirjastolla/angular-perusteet/warning-ja-success/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ohjelmiston-toteuttaminen-ohjelmistokomponenttikirjastolla/angular-perusteet/warning-ja-success/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmiston-toteuttaminen-ohjelmistokomponenttikirjastolla/angular-perusteet/warning-ja-success/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ohjelmiston-toteuttaminen-ohjelmistokomponenttikirjastolla/angular-perusteet/warning-ja-success/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmiston-toteuttaminen-ohjelmistokomponenttikirjastolla/angular-perusteet/warning-ja-success/src/app/app.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ohjelmiston-toteuttaminen-ohjelmistokomponenttikirjastolla/angular-perusteet/warning-ja-success/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmiston-toteuttaminen-ohjelmistokomponenttikirjastolla/angular-perusteet/warning-ja-success/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ohjelmiston-toteuttaminen-ohjelmistokomponenttikirjastolla/angular-perusteet/warning-ja-success/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmiston-toteuttaminen-ohjelmistokomponenttikirjastolla/angular-perusteet/warning-ja-success/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ohjelmiston-toteuttaminen-ohjelmistokomponenttikirjastolla/angular-perusteet/warning-ja-success/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmiston-toteuttaminen-ohjelmistokomponenttikirjastolla/angular-perusteet/warning-ja-success/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ohjelmiston-toteuttaminen-ohjelmistokomponenttikirjastolla/angular-perusteet/warning-ja-success/src/app/success-alert/success-alert.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmiston-toteuttaminen-ohjelmistokomponenttikirjastolla/angular-perusteet/warning-ja-success/src/app/success-alert/success-alert.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ohjelmiston-toteuttaminen-ohjelmistokomponenttikirjastolla/angular-perusteet/warning-ja-success/src/app/success-alert/success-alert.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmiston-toteuttaminen-ohjelmistokomponenttikirjastolla/angular-perusteet/warning-ja-success/src/app/success-alert/success-alert.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ohjelmiston-toteuttaminen-ohjelmistokomponenttikirjastolla/angular-perusteet/warning-ja-success/src/app/success-alert/success-alert.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmiston-toteuttaminen-ohjelmistokomponenttikirjastolla/angular-perusteet/warning-ja-success/src/app/success-alert/success-alert.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ohjelmiston-toteuttaminen-ohjelmistokomponenttikirjastolla/angular-perusteet/warning-ja-success/src/app/warning-alert/warning-alert.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmiston-toteuttaminen-ohjelmistokomponenttikirjastolla/angular-perusteet/warning-ja-success/src/app/warning-alert/warning-alert.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ohjelmiston-toteuttaminen-ohjelmistokomponenttikirjastolla/angular-perusteet/warning-ja-success/src/app/warning-alert/warning-alert.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmiston-toteuttaminen-ohjelmistokomponenttikirjastolla/angular-perusteet/warning-ja-success/src/app/warning-alert/warning-alert.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ohjelmiston-toteuttaminen-ohjelmistokomponenttikirjastolla/angular-perusteet/warning-ja-success/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Ohjelmiston-toteuttaminen-ohjelmistokomponenttikirjastolla/angular-perusteet/warning-ja-success/src/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,14 +72,31 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Ohjelmiston-toteuttaminen-ohjelmistokomponenttikirjastolla/angular-perusteet" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/Ohjelmiston-toteuttaminen-ohjelmistokomponenttikirjastolla/angular-perusteet/angular-and-bootstrap4/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Ohjelmiston-toteuttaminen-ohjelmistokomponenttikirjastolla/angular-perusteet" />
       <recent name="C:\Tiedostot\portfolio\net20" />
     </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/net20/Ohjelmiston-toteuttaminen-ohjelmistokomponenttikirjastolla/angular-perusteet/angular-and-bootstrap4/src/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/net20/Ohjelmiston-toteuttaminen-ohjelmistokomponenttikirjastolla/angular-perusteet/my-first-app/src/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -66,6 +109,9 @@
       <workItem from="1604947868924" duration="609000" />
       <workItem from="1604948770240" duration="262000" />
       <workItem from="1605168504743" duration="148000" />
+      <workItem from="1605706280700" duration="259000" />
+      <workItem from="1605706542431" duration="106000" />
+      <workItem from="1605706665676" duration="1000" />
     </task>
     <task id="LOCAL-00001" summary="add new folders.">
       <created>1604948359588</created>

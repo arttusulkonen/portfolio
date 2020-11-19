@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import {faRadiation} from '@fortawesome/free-solid-svg-icons';
 
 @Component({
   selector: 'app-warning-alert',
@@ -6,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./warning-alert.component.css']
 })
 export class WarningAlertComponent implements OnInit {
-
+  radiation = faRadiation;
   constructor() { }
 
   ngOnInit(): void {
