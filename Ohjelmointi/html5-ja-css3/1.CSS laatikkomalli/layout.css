@@ -1,0 +1,11 @@
+html {
+    max-width: 960px;
+    margin: auto;
+}
+body {
+    margin: 20px;
+}
+.laatikko {
+    border: 1px solid black;
+    padding: 20px;
+}

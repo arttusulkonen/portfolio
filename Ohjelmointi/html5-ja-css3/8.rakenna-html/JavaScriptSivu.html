@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="layout.css">
+</head>
+<body>
+    <script>
+       document.body.id += "runko";
+
+       var runko = document.getElementById("runko");
+       var header = document.createElement("header");
+       var section = document.createElement("section");
+       var figure = document.createElement("figure");
+       var footer = document.createElement("footer");
+
+       var h1 = document.createElement("h1");
+       var p1 = document.createElement("p");
+       var p2 = document.createElement("p");
+       var p3 = document.createElement("p");
+
+       var text0 = document.createTextNode("Tämä on artikkelin otsikko");
+       var text1 = document.createTextNode("Esnimmäinen kappale! Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe iusto consequatur laudantium vero vel hic delectus? Culpa nam aspernatur maiores eos voluptates consectetur temporibus. Quaerat, incidunt repudiandae. Eum, fuga maiores.");
+       var text2 = document.createTextNode("Lorem ipsum, dolor sit amet consectetur adipisicing elit. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nulla molestiae fuga dolor exercitationem. Libero, reiciendis iure pariatur odit quod nemo illum officia tempore. Assumenda commodi perspiciatis, ex eligendi repellendus ipsum!Nulla molestiae fuga dolor exercitationem. Libero, reiciendis iure pariatur odit quod nemo illum officia tempore. Assumenda commodi perspiciatis, ex eligendi repellendus ipsum!");
+       var img1 = document.createElement("img");
+       img1.src = "img/javaS.png";
+
+       var text3 = document.createTextNode("@ 2020 Arttu Sulkonen");
+
+        header.className = "ylatunniste";
+        section.id = "rinnakkain";
+        figure.id = "kuvanpaikka";
+        p1.className = "p1";
+        p2.className = "p2";
+        p3.className = "p3";
+
+        h1.appendChild(text0);
+        p1.appendChild(text1);
+        p2.appendChild(text2);
+        p3.appendChild(text3);
+
+        header.appendChild(h1);
+        header.appendChild(p1);
+
+        section.appendChild(p2);
+        section.appendChild(figure);
+        footer.appendChild(p3);
+
+        runko.appendChild(header);
+        runko.appendChild(section);
+        figure.appendChild(img1);
+        runko.appendChild(footer);
+        
+
+    </script>
+    
+    
+</body>
+</html>
