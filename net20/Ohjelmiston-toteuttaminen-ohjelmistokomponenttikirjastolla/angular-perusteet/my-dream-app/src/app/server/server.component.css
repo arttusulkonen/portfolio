@@ -1,0 +1,6 @@
+.app-server{
+  background-color: blue;
+}
+.app-server * {
+  color: bisque;
+}
