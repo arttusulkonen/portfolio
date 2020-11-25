@@ -1,8 +1,6 @@
 html {
     font-size: 80%;
     font-family: 'Press Start 2P', cursive;
-<<<<<<< HEAD
-
 }
 
 body {
@@ -10,18 +8,11 @@ body {
     background-image: white;
     margin-left: auto;
     margin-right: auto;
-=======
     width: 960px;
     margin-left: auto;
     margin-right: auto;
 }
 
-body {
-    
-    background-image: white;
-    
->>>>>>> 55e8a3fa113e5d7e41c60a6ecf12a6f63d708633
-}
 header {
     border: 2px solid #69013B;
     border-top-left-radius: 20px;
