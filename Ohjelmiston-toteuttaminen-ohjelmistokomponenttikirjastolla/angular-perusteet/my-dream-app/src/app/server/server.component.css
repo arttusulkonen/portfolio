@@ -1,6 +1,7 @@
 .app-server{
-  background-color: blue;
+  background-color: lightgrey;
 }
 .app-server * {
-  color: bisque;
+  color: black;
 }
+
