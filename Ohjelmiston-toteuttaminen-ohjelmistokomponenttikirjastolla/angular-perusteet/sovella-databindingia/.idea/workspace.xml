@@ -19,47 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c223680-78ed-4d1d-8073-aea83ad053d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.browserslistrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sovella-databindingia.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e2e/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/username-check/username-check.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/username-check/username-check.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/username-check/username-check.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/username-check/username-check.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tslint.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-dream-app/src/app/servers/servers.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../my-dream-app/src/app/servers/servers.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-dream-app/src/app/servers/servers.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../my-dream-app/src/app/servers/servers.component.ts" afterDir="false" />
+    <list default="true" id="0c223680-78ed-4d1d-8073-aea83ad053d9" name="Default Changelist" comment="New project was created. Databinding.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,8 +39,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -125,8 +89,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606299886789</updated>
-      <workItem from="1606299887922" duration="1665000" />
+      <workItem from="1606299887922" duration="1821000" />
+      <workItem from="1606301801494" duration="74000" />
     </task>
+    <task id="LOCAL-00001" summary="New project was created. Databinding.">
+      <created>1606301721918</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606301721918</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,23 +115,36 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New project was created. Databinding." />
+    <option name="LAST_COMMIT_MESSAGE" value="New project was created. Databinding." />
   </component>
   <component name="WindowStateProjectService">
-    <state width="979" height="295" key="GridCell.Tab.0.bottom" timestamp="1606300430711">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="979" height="295" key="GridCell.Tab.0.bottom" timestamp="1606301796371">
+      <screen x="0" y="25" width="1920" height="993" />
     </state>
     <state width="979" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1606300430711" />
-    <state width="979" height="295" key="GridCell.Tab.0.center" timestamp="1606300430710">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="979" height="295" key="GridCell.Tab.0.bottom/0.25.1920.993@0.25.1920.993" timestamp="1606301796371" />
+    <state width="979" height="295" key="GridCell.Tab.0.center" timestamp="1606301796370">
+      <screen x="0" y="25" width="1920" height="993" />
     </state>
     <state width="979" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1606300430710" />
-    <state width="979" height="295" key="GridCell.Tab.0.left" timestamp="1606300430710">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="979" height="295" key="GridCell.Tab.0.center/0.25.1920.993@0.25.1920.993" timestamp="1606301796370" />
+    <state width="979" height="295" key="GridCell.Tab.0.left" timestamp="1606301796370">
+      <screen x="0" y="25" width="1920" height="993" />
     </state>
     <state width="979" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1606300430710" />
-    <state width="979" height="295" key="GridCell.Tab.0.right" timestamp="1606300430711">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="979" height="295" key="GridCell.Tab.0.left/0.25.1920.993@0.25.1920.993" timestamp="1606301796370" />
+    <state width="979" height="295" key="GridCell.Tab.0.right" timestamp="1606301796371">
+      <screen x="0" y="25" width="1920" height="993" />
     </state>
     <state width="979" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1606300430711" />
+    <state width="979" height="295" key="GridCell.Tab.0.right/0.25.1920.993@0.25.1920.993" timestamp="1606301796371" />
+    <state x="1018" y="288" key="Vcs.Push.Dialog.v2" timestamp="1606301728447">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1018" y="288" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1606301728447" />
   </component>
 </project>

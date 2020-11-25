@@ -4,4 +4,7 @@
 .app-server * {
   color: black;
 }
+.online {
+  border: 5px bisque double;
+}
 
