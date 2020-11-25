@@ -1,0 +1,9 @@
+<section  class="app-servers">
+    <h1>I'm in the Servers Component</h1>
+    <button
+      [disabled] = "!allowNewServer"
+      class="btn btn-primary">Add Server</button>
+    <p>{{allowNewServer}} - string interpolation on p-tagin sisällä, tämä näkyy selaimessa...</p>
+  <p [innerHTML] = "allowNewServer">tämä sen sijaan ei nät selaimessa</p>
+  <app-server></app-server>
+</section>

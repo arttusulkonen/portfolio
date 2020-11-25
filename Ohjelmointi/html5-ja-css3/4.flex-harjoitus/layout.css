@@ -1,0 +1,106 @@
+body {
+    font-family: Gotham, Helvetica, Arial, Helvetica, sans-serif;
+    background-color: darkcyan;
+    padding: 10px;
+}
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.wrapper > * {
+    padding: 10px;
+    flex-grow: 1;
+    flex-basis: 100%;
+}
+.header {
+    background-color: gold;
+}
+.main {
+    background-color: darkorange;
+    padding: 0;
+}
+.main p {
+    padding: 10px;
+}
+.aside-1 {
+    background-color: mediumseagreen;
+}
+.aside-2 {
+    background-color: seagreen;
+}
+.footer {
+    background-color: lightgreen;
+}
+ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+ul > * {
+    flex-grow: 1;
+    flex-basis: 0;
+    
+    background-color: white;
+    text-align: center;
+    border: 1px solid black;
+}
+
+
+.fa-facebook-square {
+    color: white;
+    width: 100%;
+    padding: 10px 10px 10px 10px;
+    background-color: #3B5999;
+}
+.fa-twitter-square {
+    color: white;
+    width: 100%;
+    padding: 10px 10px 10px 10px;
+    background-color: #55ACEF;
+}
+.fa-envelope {
+    color: white;
+    width: 100%;
+    padding: 10px 10px 10px 10px;
+    background-color: #777777;
+}
+
+.eka, .toka, .kolmas, .neljas, .viides, .kuudes {
+    padding: 10px;
+}
+
+
+
+ @media screen and (min-width: 426px) {
+    .wrapper {
+        flex-direction: row;
+    }
+    .aside-1 {
+        flex-basis: auto;
+    }
+    .aside-2 {
+        flex-basis: auto;
+    }
+}
+
+@media screen and (min-width: 769px) {
+    .aside-1 {
+        order: 1;
+        flex-basis: 0px;
+    }
+    .main {
+        order: 2;
+        flex-basis: 400px;
+    }
+    .some {
+        order: 4; 
+    }
+    .aside-2 {
+        order: 3;
+        flex-basis: 0px;
+    }
+    .footer {
+        order: 5;
+    }
+} 

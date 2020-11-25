@@ -1,0 +1,123 @@
+html {
+    font-size: 62.5%;
+}
+
+body {
+    padding: 10px;
+}
+
+section {
+    background-color: #bbddee;
+    margin-bottom: 10px;
+    border: solid black 1px;
+    padding: 10px;
+}
+
+.iso-q {
+    float: left;
+    font-size: 500%;
+    width: 1.2em;
+    text-align: center;
+    padding: 0.1em 0.1em 0;
+    background: #568;
+    color: white;
+    border: solid white 1px;
+    border-width: 0 0.2em 0.2em 0; 
+    margin: -10px 0.5em 0.7em -10px;
+}
+
+.img {
+    float: left;
+    width: 82px;
+    height: 82px; 
+    text-align: center;
+    /* padding: 0 10px 5px 0; */
+    background: white;
+    color: black;
+    border: solid black 1px;
+    border-width: 0 1px 1px 0;
+    margin: -11px 20px 10px -11px;
+
+}
+
+.img img {
+    max-width: 100%;
+}
+
+h3 {
+
+}
+
+p, pre, h1, h2, h3 {
+    margin-bottom: 10px;
+}
+ul {
+    list-style: disc;
+    margin-left: 3rem;
+}
+
+#eka h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+    font-weight: bolt;
+}
+
+#middle {
+    margin-top: 0px;
+    margin: -12px -11px -10px -10px;
+    padding: 10px;
+    text-transform: lowercase;
+    border: solid black 1px;
+    background-color: #58808A;
+    text-align: right;
+
+}
+
+pre {
+    font-size: 1.4rem;
+    margin-bottom: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 1rem;
+}
+
+#bottom {
+    margin-top: 0px;
+    margin: -11px -11px -10px -10px;
+    padding: 10px;
+    text-transform: lowercase;
+    border: solid black 1px;
+    background-color: #58808A;
+    text-align: right;
+}
+
+.banneriteksti {
+    float: left;
+    width: 25%;
+    text-align: left;
+    font-size: 140%;
+    font-weight: bold;
+    font-style: italic;
+    padding: 10px 10px 10px 10px;
+    text-indent: -0.5em;
+    background: white;
+    color: black;
+    border: solid black 1px;
+    border-width: 1px 1px 1px 0;
+    margin: -29px 0.5em 0.2em -11px;
+}
+
+.bottom-p2 {
+    float: right;
+    width: 25%;
+    text-align: left;
+    font-size: 140%;
+    font-weight: bold;
+    font-style: italic;
+    padding: 1em;
+    text-indent: -0.5em;
+    background: white;
+    color: black;
+    border: solid black 1px;
+    border-width: 1px 0 1px 1px;
+    margin: 0.2em -11px 0.2em 0.5em;
+}
