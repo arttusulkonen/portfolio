@@ -20,7 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c223680-78ed-4d1d-8073-aea83ad053d9" name="Default Changelist" comment="New project was created. Databinding.">
+      <change afterPath="$PROJECT_DIR$/../sovella-ng-directives/src/app/display-details/display-details.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sovella-ng-directives/src/app/display-details/display-details.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sovella-ng-directives/src/app/display-details/display-details.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sovella-ng-directives/src/app/display-details/display-details.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sovella-ng-directives/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/../sovella-ng-directives/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sovella-ng-directives/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../sovella-ng-directives/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sovella-ng-directives/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../sovella-ng-directives/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sovella-ng-directives/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../sovella-ng-directives/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sovella-ng-directives/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../sovella-ng-directives/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sovella-ng-directives/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../sovella-ng-directives/src/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +49,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -91,6 +102,9 @@
       <updated>1606299886789</updated>
       <workItem from="1606299887922" duration="1821000" />
       <workItem from="1606301801494" duration="74000" />
+      <workItem from="1606379062276" duration="769000" />
+      <workItem from="1606893124487" duration="114000" />
+      <workItem from="1606903741470" duration="236000" />
     </task>
     <task id="LOCAL-00001" summary="New project was created. Databinding.">
       <created>1606301721918</created>
@@ -122,26 +136,26 @@
     <option name="LAST_COMMIT_MESSAGE" value="New project was created. Databinding." />
   </component>
   <component name="WindowStateProjectService">
-    <state width="979" height="295" key="GridCell.Tab.0.bottom" timestamp="1606301796371">
+    <state width="933" height="266" key="GridCell.Tab.0.bottom" timestamp="1606903977308">
       <screen x="0" y="25" width="1920" height="993" />
     </state>
     <state width="979" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1606300430711" />
-    <state width="979" height="295" key="GridCell.Tab.0.bottom/0.25.1920.993@0.25.1920.993" timestamp="1606301796371" />
-    <state width="979" height="295" key="GridCell.Tab.0.center" timestamp="1606301796370">
+    <state width="933" height="266" key="GridCell.Tab.0.bottom/0.25.1920.993@0.25.1920.993" timestamp="1606903977308" />
+    <state width="933" height="266" key="GridCell.Tab.0.center" timestamp="1606903977307">
       <screen x="0" y="25" width="1920" height="993" />
     </state>
     <state width="979" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1606300430710" />
-    <state width="979" height="295" key="GridCell.Tab.0.center/0.25.1920.993@0.25.1920.993" timestamp="1606301796370" />
-    <state width="979" height="295" key="GridCell.Tab.0.left" timestamp="1606301796370">
+    <state width="933" height="266" key="GridCell.Tab.0.center/0.25.1920.993@0.25.1920.993" timestamp="1606903977307" />
+    <state width="933" height="266" key="GridCell.Tab.0.left" timestamp="1606903977307">
       <screen x="0" y="25" width="1920" height="993" />
     </state>
     <state width="979" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1606300430710" />
-    <state width="979" height="295" key="GridCell.Tab.0.left/0.25.1920.993@0.25.1920.993" timestamp="1606301796370" />
-    <state width="979" height="295" key="GridCell.Tab.0.right" timestamp="1606301796371">
+    <state width="933" height="266" key="GridCell.Tab.0.left/0.25.1920.993@0.25.1920.993" timestamp="1606903977307" />
+    <state width="933" height="266" key="GridCell.Tab.0.right" timestamp="1606903977307">
       <screen x="0" y="25" width="1920" height="993" />
     </state>
     <state width="979" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1606300430711" />
-    <state width="979" height="295" key="GridCell.Tab.0.right/0.25.1920.993@0.25.1920.993" timestamp="1606301796371" />
+    <state width="933" height="266" key="GridCell.Tab.0.right/0.25.1920.993@0.25.1920.993" timestamp="1606903977307" />
     <state x="1018" y="288" key="Vcs.Push.Dialog.v2" timestamp="1606301728447">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
