@@ -1,0 +1,36 @@
+<div class="container">
+  <!-- Kahvila-komponentin alku -->
+  <div class="row">
+    <div class="col-md-12">
+      <h1>Kahvin myynti</h1>
+      <label>Pöydän numero</label>
+      <input type="text" class="form-control mb-2" [(ngModel)]="poydanNumero">
+      <label>Montako annosta</label>
+      <input type="text" class="form-control mb-2" [(ngModel)]="myyntiMaara">
+      <button class="btn btn-primary mr-2" (click)="kahviaMyyty()">Myynti</button>
+      <button class="btn btn-primary" (click)="kahviaTarjoiltu()">Tarjoilu</button>
+    </div>
+  </div>
+  <!-- Kahvila-komponentin loppu -->
+  <hr>
+  <div class="row">
+    <div class="col-md-4">
+      <div class="card" *ngFor="let ohje of tarjoiluOhje">
+        <!-- Myynti-komponentin alku -->
+        <figure
+          [ngStyle]="{'background-color':ohje.tyo === 'myyty' ? 'red' : 'green' }"
+          class="card-image-top otsikko">
+          <fa-icon [icon]="faCoffee"></fa-icon>
+        </figure>
+        <div class="card-body">
+          <h2 class="card-title">Pöytään {{ ohje.poydanNumero }}</h2>
+          <p class="card-text">
+            <span *ngIf="ohje.tyo === 'myyty'" style="color: red; font-weight: 900;">tilattu {{ ohje.myyntiMaara }} kahvia.</span>
+            <span *ngIf="ohje.tyo === 'tarjoiltu'" style="color: green; font-weight: 900;">tarjoiltu {{ ohje.myyntiMaara }} kahvia.</span>
+          </p>
+        </div>
+        <!-- Myynti-komponentin loppu -->
+      </div>
+    </div>
+  </div>
+</div>
