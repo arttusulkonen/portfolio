@@ -6,14 +6,14 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  servers;
+  servers = [];
 
   onAddServer() {
     this.servers.push('Another Server');
-  }fcgv
+  }
 
   onRemoveServer(id: number) {
-    const position = id + 1;
+    const position = id;
     this.servers.splice(position, 1);
   }
 }
