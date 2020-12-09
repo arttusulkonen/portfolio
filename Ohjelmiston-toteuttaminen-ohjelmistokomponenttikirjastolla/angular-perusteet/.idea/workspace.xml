@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="852a602b-2e10-41db-b6d9-45f42d35a2b9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/sovella-ng-directives/src/app/display-details/display-details.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sovella-ng-directives/src/app/display-details/display-details.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sovella-ng-directives/src/app/display-details/display-details.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sovella-ng-directives/src/app/display-details/display-details.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sovella-databindingia/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sovella-databindingia/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sovella-ng-directives/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/sovella-ng-directives/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sovella-ng-directives/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/sovella-ng-directives/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sovella-ng-directives/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/sovella-ng-directives/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sovella-ng-directives/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/sovella-ng-directives/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sovella-ng-directives/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/sovella-ng-directives/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sovella-ng-directives/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/sovella-ng-directives/src/styles.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1l63Bgt1b4URK7mWJ7rnnEUNG1U" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="852a602b-2e10-41db-b6d9-45f42d35a2b9" name="Default Changelist" comment="" />
+      <created>1606903579756</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606903579756</updated>
+      <workItem from="1606903580845" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="849" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606903598451">
+      <screen x="0" y="25" width="1920" height="993" />
+    </state>
+    <state x="849" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1920.993@0.25.1920.993" timestamp="1606903598451" />
+  </component>
+</project>

@@ -1,0 +1,19 @@
+<div class="container">
+  <div class="row align-items-center">
+    <div class="col text-center">
+      <button (click) = toggleDisplay()  type="button" class="btn btn-warning">Display Details</button>
+  </div>
+</div>
+<div class="container">
+  <div class="row ">
+    <div class="col bg-secondary text-white rounded " [hidden]= 'isShow'>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus assumenda commodi, consequatur delectus deleniti dolor excepturi, harum id neque, nesciunt praesentium quam reiciendis temporibus voluptatibus Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, itaque!</p>
+    </div>
+  </div>
+</div>
+<section>
+  <div style="text-align: center;" class="container">
+      <p *ngFor="let lok of loki; let i = index" [ngStyle]="{'backgroundColor' : i > 4 ? 'black' : ' white'}" [ngClass]="{setColor: backgroundColor}">{{lok|date: "dd.MM.yyyy HH:mm:ss"}}</p>
+  </div>
+</section>
+</div>

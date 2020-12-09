@@ -24,9 +24,12 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+
+            ]
           },
           "configurations": {
             "production": {
@@ -122,6 +125,12 @@
   },
   "defaultProject": "sovella-ng-directives",
   "cli": {
+<<<<<<< HEAD
     "analytics": "2629b617-5965-4443-b9a0-87a605cad01d"
   }
 }
+=======
+    "analytics": "3589a27b-68d9-4c1a-9adc-96e1da5e25cb"
+  }
+}
+>>>>>>> develop
