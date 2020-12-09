@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "sovella-ng-directives"
+  "defaultProject": "sovella-ng-directives",
+  "cli": {
+    "analytics": "2629b617-5965-4443-b9a0-87a605cad01d"
+  }
 }
