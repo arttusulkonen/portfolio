@@ -72,7 +72,23 @@ a:hover {
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
 }
-
+.header_list{
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+.header_list .active{
+    padding-bottom: 10px;
+}
+.active::before {
+    color: green; 
+    content: "▉"; 
+    padding-right: 10px;
+   }
+.inactive::before {
+    color: red; 
+    content: "▉"; 
+    padding-right: 10px;
+   }
 @media screen and (max-width: 425px) {
     body{
         padding: 0;
