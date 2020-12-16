@@ -1,7 +1,9 @@
 html {
     font-size: 80%;
     font-family: 'Press Start 2P', cursive;
-
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 body {
