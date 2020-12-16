@@ -54,15 +54,15 @@ h3 {
 
 a {
     text-decoration: none;
-    color: #333333;
+    color: black;
 }
 a:hover {
     text-decoration: underline;
     cursor: pointer;
 }
-a:visited {
+/* a:visited {
     color: #cecece;
-}
+} */
 
 .footer-p {
     padding: 10px;
