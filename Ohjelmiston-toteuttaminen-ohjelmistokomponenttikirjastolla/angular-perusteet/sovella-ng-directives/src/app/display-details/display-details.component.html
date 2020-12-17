@@ -13,7 +13,7 @@
 </div>
 <section>
   <div style="text-align: center;" class="container">
-      <p *ngFor="let lok of loki; let i = index" [ngStyle]="{'backgroundColor' : i > 4 ? 'black' : ' white'}" [ngClass]="{setColor: i > 4}">{{lok|date: "dd.MM.yyyy HH:mm:ss"}}</p>
+      <p *ngFor="let lok of loki; let i = index" [ngStyle]="{'backgroundColor' : i > 4 ? 'black' : ' white'}" [ngClass]="{setColor: i > 4}">{{lok}}</p>
   </div>
 </section>
 </div>
