@@ -1,1 +1,14 @@
-<p>cart works!</p>
+<div class="container">
+  <h3>Cart</h3>
+  <h6>My Order</h6>
+  <div class="cart-item bg-light" *ngFor="let item of items">
+
+    <div class="row">
+      <div class="col-6 item__name"><span>{{ item.name }}</span></div>
+      <div class="col-6 item__price"> <span class="ml-5"><strong>{{ item.price | currency }}</strong></span></div>
+    </div>
+
+
+  </div>
+
+</div>

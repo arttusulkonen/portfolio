@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { faShoppingCart } from '@fortawesome/free-solid-svg-icons';
+import { faMobileAlt } from '@fortawesome/free-solid-svg-icons';
 
 @Component({
   selector: 'app-top-bar',
@@ -8,6 +9,7 @@ import { faShoppingCart } from '@fortawesome/free-solid-svg-icons';
 })
 export class TopBarComponent implements OnInit {
   faShoppingCart = faShoppingCart;
+  faMobile = faMobileAlt;
 
   constructor() { }
 
