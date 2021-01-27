@@ -7,7 +7,6 @@ import { TopBarComponent } from './top-bar/top-bar.component';
 import { ProductListComponent } from './product-list/product-list.component';
 import { CartComponent } from './cart/cart.component';
 import { CartService } from './cart.service';
-import { FooterComponent } from './footer/footer.component';
 
 
 @NgModule({
@@ -15,8 +14,7 @@ import { FooterComponent } from './footer/footer.component';
     AppComponent,
     TopBarComponent,
     ProductListComponent,
-    CartComponent,
-    FooterComponent
+    CartComponent
   ],
   imports: [
     BrowserModule,
