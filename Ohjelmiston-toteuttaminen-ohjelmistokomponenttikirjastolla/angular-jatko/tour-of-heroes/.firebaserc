@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "tour-of-heroes-bc"
+  },
+  "targets": {
+    "tour-of-heroes-bc": {
+      "hosting": {
+        "tour-of-heroes": [
+          "tour-of-heroes-bc"
+        ]
+      }
+    }
+  }
+}
