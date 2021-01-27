@@ -2,6 +2,8 @@ import { Component, OnInit } from '@angular/core';
 import { products } from '../products';
 import { faFacebookF, faTwitterSquare, faInstagram } from '@fortawesome/free-brands-svg-icons';
 
+import { CartService } from '../cart.service';
+
 @Component({
   selector: 'app-product-list',
   templateUrl: './product-list.component.html',
@@ -14,7 +16,15 @@ export class ProductListComponent implements OnInit {
   faInstagram = faInstagram;
 
   products = products;
-  constructor() { }
+  items;
+  product;
+
+  constructor(private cartService: CartService){}
+
+  addToCart(product): void {
+    window.alert('Your product has been added to the cart!');
+    this.cartService.addToCart(product);
+  }
 
   ngOnInit(): void {
   }
