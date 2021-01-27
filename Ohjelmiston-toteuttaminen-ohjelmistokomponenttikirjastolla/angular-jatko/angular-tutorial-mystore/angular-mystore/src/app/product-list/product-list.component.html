@@ -1,0 +1,43 @@
+ <div class="logo">
+    <img class="iphoneBg img-fluid" src="assets/img/iso-iphone-xs.jpg" alt="">
+    <hr>
+    <h2>Phone Models</h2>
+  </div>
+
+  <div class="wrapper">
+    <div class="wrapper__list" *ngFor="let product of products; index as productId">
+      <div class="items">
+        <div *ngIf="product.imgUrl">
+          <img class="wrapper__img" [src]="product.imgUrl"/>
+        </div>
+
+        <h3 class="wrapper__title"><a [title]="product.name + ' details'" [routerLink]="['/products', productId]">
+          {{ product.name }}
+        </a></h3>
+        <p class="wrapper__price">{{ product.price | currency }}</p>
+        <div class="wrapper__descr">
+          <p *ngIf="product.short_description" [routerLink]="['/products', productId]">
+            Description: {{ product.short_description }}
+          </p>
+        </div>
+        <div class="buttons">
+          <button class="btn btn-info mr-2" (click)="addToCart(product)" >
+            Buy Now
+          </button>
+          <button class="btn btn-primary mr-2" (click)="share()">
+            <fa-icon [icon]="faFacebookF"></fa-icon>
+          </button>
+          <button class="btn btn-primary mr-2" (click)="share()">
+            <fa-icon [icon]="faTwitterSquare"></fa-icon>
+          </button>
+          <button class="btn btn-primary" (click)="share()">
+            <fa-icon [icon]="faInstagram"></fa-icon>
+          </button>
+        </div>
+
+
+      </div>
+
+  </div>
+
+</div>

@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-mystore"
+    }
+  },
+  "defaultProject": "angular-mystore",
+  "cli": {
+    "analytics": false
+  }
 }
