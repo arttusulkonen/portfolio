@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import {HttpClient} from '@angular/common/http';
-import sampleData from '../../assets/phones/phones.json';
+import phones from '../../assets/phones/phones.json';
+
 
 @Component({
   selector: 'app-main',
@@ -9,7 +10,8 @@ import sampleData from '../../assets/phones/phones.json';
 })
 export class MainComponent implements OnInit {
 
-  phones: any = sampleData;
+  phones: any = phones;
+  phone;
 
   constructor(private http: HttpClient) { }
 

@@ -6,12 +6,16 @@ import { ProductComponent } from './product/product.component';
 import { MainComponent } from './main/main.component';
 import { RouterModule } from '@angular/router';
 import { HttpClientModule } from '@angular/common/http';
+import { MotorolaXoomWifiComponent } from './motorola-xoom-wifi/motorola-xoom-wifi.component';
+import { MotorolaXoomComponent } from './motorola-xoom/motorola-xoom.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     ProductComponent,
-    MainComponent
+    MainComponent,
+    MotorolaXoomWifiComponent,
+    MotorolaXoomComponent
   ],
   imports: [
     BrowserModule,
