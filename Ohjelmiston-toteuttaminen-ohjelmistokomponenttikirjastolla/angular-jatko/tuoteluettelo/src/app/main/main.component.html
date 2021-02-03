@@ -13,10 +13,12 @@
           <option value="1">Newest</option>
           <option value="2">Alphabetical</option>
         </select>
+
       </div>
       <div class="col-9">
+
         <ul>
-          <li class="listOfPhones" *ngFor="let phones of phones; index as productId">
+          <li class="listOfPhones" *ngFor="let phones of phones; index as productId ">
             <div><img src="{{phones.imageUrl}}" class="images"></div>
 
             <div class="phonesInfo">
